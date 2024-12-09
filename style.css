@@ -1,8 +1,9 @@
-h1 {
+/* h1 {
     color:black;
     font-family:;
     font-size:;
     border-width:;
+    border-style:;
 }
 
 a {
@@ -18,6 +19,7 @@ p {
     font-family:;
     font-size:;
     border-width:;
+    border-style:;
 }
 
 h2{
@@ -25,4 +27,10 @@ h2{
     font-family:;
     font-size:;
     border-width:;
+    border-style:;
+} */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
 }
